@@ -1,9 +1,6 @@
 # Spotlight Saver
 
-A lightweight Windows desktop app that extracts and saves the wallpaper images from **Windows Spotlight** — the rotating lock screen backgrounds that Windows downloads automatically.
-
-<img width="960" height="563" alt="{84F527A9-ADE3-4242-BECF-1067A2A27F6A}" src="https://github.com/user-attachments/assets/f00f455d-114e-4318-954c-b1e9b0cd6875" />
-
+A lightweight Windows desktop app that extracts and saves the beautiful wallpaper images from **Windows Spotlight** — the rotating lock screen backgrounds that Windows downloads automatically.
 
 ![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows)
 ![Python 3.8+](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
